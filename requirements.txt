@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+requests
+bs4
+pdfplumber
+scikit-learn
+openpyxl
+streamlit-option-menu
+    
